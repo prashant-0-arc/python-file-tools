@@ -2,7 +2,7 @@
 
 This repository contains a collection of simple but powerful command-line scripts to automate file management.
 
-## 1. Smart File Organizer (`organizer.py`)
+##  Smart File Organizer (`organizer.py`)
 
 A script that organizes any target directory by moving files into categorized subfolders.
 
