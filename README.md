@@ -1,6 +1,6 @@
 # Python File Automation Tools
 
-This repository contains a collection of simple but powerful command-line script to automate file management.
+This repository contains a simple but powerful command-line script to automate file management.
 
 ##  Smart File Organizer (`organizer.py`)
 
